@@ -1,4 +1,4 @@
-import sys, shutil
+import sys
 import Parser, Code, SymbolTable
 
 
